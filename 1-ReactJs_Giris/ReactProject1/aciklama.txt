@@ -1,0 +1,14 @@
+Bu proje vite aracı aracılıgıyla olusturulmustur.
+Console da 
+
+=>npm create vite@latest
+
+komutu ile bir proje baslayıyoruz. Daha sonra proje ismi ve framwwork leir belirtiyoruz. En son 
+
+=>npm i
+
+komutuyla ilgili kutuphaneleri yukluyoruz. Daha sonra 
+
+=>npm run dev 
+
+komutuyla react projesini baslatıyoruz.
