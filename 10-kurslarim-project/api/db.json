@@ -1,0 +1,34 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "content":"Angular, modern web uygulamaları geliştirmek için kullanılan bir TypeScript tabanlı bir JavaScript framework'üdür. Angular, genellikle büyük ve karmaşık uygulamaların geliştirilmesi için tercih edilir ve MVC (Model-View-Controller) mimarisine dayanır.",
+            "title":"Angular",
+            "price":65
+        },
+        {
+            "id":2,
+            "content":"React, modern web uygulamaları oluşturmak için kullanılan açık kaynaklı bir JavaScript kütüphanesidir. React, bileşen tabanlı bir yapı sunar ve kullanıcı arayüzlerinin oluşturulması için kullanılır.",
+            "title":"React",
+            "price":60
+        },
+        {
+            "id":3,
+            "content":".NET Core, Microsoft tarafından geliştirilen, açık kaynaklı, ücretsiz ve platform bağımsız bir web uygulama çerçevesidir. .NET Core, modern ve performans odaklı uygulamalar oluşturmak için kullanılır ve Windows, macOS ve Linux gibi çeşitli işletim sistemlerinde çalışabilir.",
+            "title":"NetCore",
+            "price":100
+        },
+        {
+            "id":4,
+            "content":"Entity Framework Core (EF Core), Microsoft tarafından geliştirilen ve .NET Core platformu için tasarlanmış bir ORM (Object-Relational Mapping) çerçevesidir. EF Core, veritabanı işlemlerini yönetmek için kullanılır ve geliştiricilere veritabanı tablolarıyla nesneler arasında ilişki kurmayı ve veritabanı işlemlerini C# kodu üzerinden gerçekleştirmeyi sağlar. ",
+            "title":"EFCore",
+            "price":80 
+        },
+        {
+            "id":5,
+            "content":"Bootstrap, Twitter tarafından geliştirilen ve modern web uygulamaları ve web siteleri oluşturmak için kullanılan popüler bir CSS ve JavaScript framework'üdür. Bootstrap, öncelikle hızlı ve etkileyici bir şekilde kullanıcı arayüzü oluşturmak için tasarlanmıştır.",
+            "title":"Bootstrap",
+            "price":30
+        }
+    ]
+}
