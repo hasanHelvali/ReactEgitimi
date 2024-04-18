@@ -1,0 +1,57 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #fff;
+}
+
+header{
+  background-color: lightblue;
+  padding: 16px 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.toDoDiv{
+  display: flex;
+  justify-content: center;
+}
+.toDoForm{
+  padding: 20px;
+  width: 250px;
+  border: 1px solid lightblue;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+.toDoInput{
+  border: none;
+
+}
+.toDoButton{
+  width: 100px;
+}
+contentDiv{
+  border: 1px;
+  border-radius: 30px;
+  min-width: 250px;
+  text-align: center;
+  padding: 20px;
+}
+.a{
+  border: 1px solid black;
+  border-radius: 30px;
+  min-width: 250px;
+  text-align: center;
+  padding: 20px;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50% 0);
+}
